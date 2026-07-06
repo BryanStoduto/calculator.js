@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="./README.md">🇧🇷 Portuguese</a> |
+  <a href="./README.EN.md">🇺🇸 English</a>
+</p>
+
 # 🧮 Calculator
 
 Calculadora desenvolvida com **HTML5, CSS3 e JavaScript**, capaz de realizar operações matemáticas básicas.
